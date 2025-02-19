@@ -1,4 +1,4 @@
-package PP12025_B_233040043.Pertemuan2;
+package Pertemuan2;
 
 public class Tes4_b {
     public static void main(String[] args) {
