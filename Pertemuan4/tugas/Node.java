@@ -23,7 +23,4 @@ public class Node {
     public void setNext(Node next) {
         Next = next;
     }
-
-    
-
 }
