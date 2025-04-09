@@ -112,7 +112,7 @@ public class StrukturList {
         tempNode = null;
     }
     public void removeMid(int e){
-        Node preNode = new Node(0), tempNode;
+        Node preNode = null, tempNode;
         int i;
         boolean ketemu;
 
