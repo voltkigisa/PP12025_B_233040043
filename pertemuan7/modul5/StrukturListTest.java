@@ -6,7 +6,7 @@ public class StrukturListTest {
         list.addHead(3);
         list.addHead(6);
         list.addHead(2);
-        list.addTail(5);
+        list.addMid(5,4);
         list.addTail(1);
 
         System.out.println("Element: ");
