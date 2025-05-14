@@ -10,7 +10,8 @@ public class StrukturQueue {
     public void enqueue(int data) {
         Node newNode = new Node(data);
         if (isEmpty()) {
-            front = rear = newNode;
+            front = newNode;
+            rear = newNode;
         } else {
             rear.setNext(newNode);
             rear = newNode;
